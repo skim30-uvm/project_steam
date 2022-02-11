@@ -56,6 +56,7 @@ The more owners, the older the average release date.
 # 2. Data preperation
  * In the previous section, we found there are not many games with >10000K owners
  * Our label then can be either numeric or categorical.
+ * Details in the jupyter notebook
 
 # 3. Build model
 ## 1. Regression model
